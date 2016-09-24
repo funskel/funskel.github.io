@@ -1,0 +1,29 @@
+The simplest kind of singularity is the algebraic: one divided by x.  As x gets smaller, 1 over x gets larger so 100 gives you a 1 100th. 2 gives you a half.  1 begets 1, one ten-thousandth-- 10,000, a millionth-- one million.
+
+As you approach zero, one over x approaches infinity.  Infinity is hard to wrangle, but we can stand on a beach looking at the night sky considering stars near and far, grains of sand and tsunamis propagating for thousands of miles and at least get some sense of hugeness.
+
+However as negative numbers become smaller, one over x becomes *negatively* larger so as we approach zero from the negative side one over x approaches negative infinity.  What is 1 over zero?  infinity or negative infinity?  It's both or neither or everything in between.  A singularity is where you have to throw out the rule book, where mental models break down and confusion reigns.
+
+In signal processing, a pole in a filter is where zeros in denominators start to appear.  If you keep your poles and zeros inside the unit circle, the filter will be stable, but all the interesting stuff happens when they get close to the edge.
+
+"Skynet becomes self-aware at 2:14 a.m. Eastern time, August 29th"
+
+The coming technological singularity, where computers, or at least dead Johnny Depp, become smarter than humans and bring on change so rapid and unprecendented that we just can't predict whether we'll be fighting robots in a post-apocalyptic wasteland or wearing stretchy jumpsuits and playing fast and loose with the prime directive.
+
+Nothing will be the same, but has it ever been?  Has anything that we put into sensible historic
+timelines ever seemed so tractable at the time?  The plow, the longbow, the clipper ship, fire and the wheel-- our stories are about noblemen and great warriors, but what were these changes like to the regular sad sack peasant with her life upended?
+
+And why is the transformation of human life so important?  Can we consider the transformation of Gaia when she caught a case of humans?  Or Earth when the first spark of life gummed up geological change with erosion-foiling roots and atmospheric element rebalancing photosynthesis?
+
+On a timescale of decades,
+not millenia, the most profound singularity
+is you.
+
+Solipsism is impossible--  I could never think you up.
+
+When we lie
+head by head,
+eyes closed,
+talking on and on into the night,
+I close my eyes and I surf waves of novelty
+as you pass the Turing test over and over.  
